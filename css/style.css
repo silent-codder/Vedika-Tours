@@ -1347,7 +1347,8 @@ h3 {
 @media (max-width: 767px) {
   /* line 23, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: auto;
+    height: 300px;
+    width: auto;
   }
 }
 
